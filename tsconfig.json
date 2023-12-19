@@ -1,0 +1,35 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "types": ["node"],
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noImplicitReturns": true,
+    "noStrictGenericChecks": false,
+    "noUnusedParameters": false,
+    "outDir": "./public/",
+    "preserveConstEnums": true,
+    "rootDir": "./",
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "target": "ES6",
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": false,
+    "noImplicitAny": false          // Bypass raising errors on `any` type
+  },
+  "exclude": ["node_modules"],
+  "include": ["resources/ts/*", "index.d.ts"]  // Frontend paths pattern
+}

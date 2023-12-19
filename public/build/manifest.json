@@ -1,0 +1,148 @@
+{
+  "_dayjs-d2420a3b.js": {
+    "file": "assets/dayjs-d2420a3b.js",
+    "imports": [
+      "_lodash-725317a4.js"
+    ],
+    "integrity": "sha384-V1Dz8DkUQVhJ4SpeLEOXwyCttf/P+wUv72JPNOabZ5owllWxue4grBNrxCbdNASZ"
+  },
+  "_gridjs-a5d504de.js": {
+    "file": "assets/gridjs-a5d504de.js",
+    "integrity": "sha384-5HiRbvDXqthfPFNcAydermQcQ58RqYaaC3l/8uxYCG/7txbhevdHCVpYJh28jcMj"
+  },
+  "_gridjsReact-3186b375.js": {
+    "file": "assets/gridjsReact-3186b375.js",
+    "imports": [
+      "_reactbootstrap-d01ac090.js",
+      "_gridjs-a5d504de.js"
+    ],
+    "integrity": "sha384-CxJbVaDr3fimhNCVLPc79zZcg791eK62STPg7nmgdqLuhL2LmtVIBig8zXVIIGpC"
+  },
+  "_lodash-725317a4.js": {
+    "file": "assets/lodash-725317a4.js",
+    "integrity": "sha384-g5ESfTSm14vjCCdlYrRj3FCBDEHKDeb/FMBq9ytcmawY7VpImBm1PjnCmVTGoDLS"
+  },
+  "_reactbootstrap-d01ac090.js": {
+    "file": "assets/reactbootstrap-d01ac090.js",
+    "imports": [
+      "_lodash-725317a4.js"
+    ],
+    "integrity": "sha384-2RcuyBflNYcf3EWAg62LKvIwGMH6ly9pEuml0/3af7RpPiIcaWoR08rzdNOdnudv"
+  },
+  "_styledcomponents-fca193cb.js": {
+    "file": "assets/styledcomponents-fca193cb.js",
+    "imports": [
+      "_reactbootstrap-d01ac090.js",
+      "_lodash-725317a4.js"
+    ],
+    "integrity": "sha384-3LXVVfUFU1gS/P1y/LCq2ZHhOhZVVNG3dZ13IK3+FieWkFFP8gVS9WY0r2JCrunn"
+  },
+  "resources/ts/assets/images/icons/add_client.png": {
+    "file": "assets/add_client-acb963cf.png",
+    "src": "resources/ts/assets/images/icons/add_client.png",
+    "integrity": "sha384-9rKVPdOVbtp2sX4BeeMlAo4769BbF2BxvtBYjPe8Ouv2UVhPXiEPlJ2PhbkVCyXX"
+  },
+  "resources/ts/assets/images/icons/add_payment.png": {
+    "file": "assets/add_payment-a812b187.png",
+    "src": "resources/ts/assets/images/icons/add_payment.png",
+    "integrity": "sha384-tq04vV0Nf949UnLR8HaBgPG1qS1pTINl2vUcSF2gg72fGRHl0QsEeyi13WGoWi6m"
+  },
+  "resources/ts/assets/images/icons/add_products.png": {
+    "file": "assets/add_products-b21fadcf.png",
+    "src": "resources/ts/assets/images/icons/add_products.png",
+    "integrity": "sha384-nw8LmQPlES/1Ss4qMRtn4ZHICPjhDzq+iS3rrgq7Eu7qmapcthLgNHqEbJ5eqZm8"
+  },
+  "resources/ts/assets/images/icons/add_reminder.png": {
+    "file": "assets/add_reminder-18458598.png",
+    "src": "resources/ts/assets/images/icons/add_reminder.png",
+    "integrity": "sha384-vqnWhTa2paZvJKpnkdecDn+hprrXzhT869CMRqvsguSajCoCuXObEftIdykVB/9H"
+  },
+  "resources/ts/assets/images/icons/create_product.png": {
+    "file": "assets/create_product-5dca9460.png",
+    "src": "resources/ts/assets/images/icons/create_product.png",
+    "integrity": "sha384-6qy0I7bZ6rHbhYWb2nbrixI6nGlUBRzGCZQ6O/X29hF4h/jgY4aygL8CC5sNsgo1"
+  },
+  "resources/ts/assets/images/icons/credit.png": {
+    "file": "assets/credit-2a0ef114.png",
+    "src": "resources/ts/assets/images/icons/credit.png",
+    "integrity": "sha384-3BbYXu3k2ixns13Z39ercQ885LiMjXmmIOXed0sEON8K1wVyqt3jyal8tHjorqLN"
+  },
+  "resources/ts/assets/images/icons/edit_product.png": {
+    "file": "assets/edit_product-8511c046.png",
+    "src": "resources/ts/assets/images/icons/edit_product.png",
+    "integrity": "sha384-whxL1QiI9az4otLQnXB1f/6/Jm52a8vRNuTeaEZLra68WDieFbLOMkitUjS23CiE"
+  },
+  "resources/ts/assets/images/icons/manage_invoice.png": {
+    "file": "assets/manage_invoice-23b36015.png",
+    "src": "resources/ts/assets/images/icons/manage_invoice.png",
+    "integrity": "sha384-4luqn7LZ+4qme1wum1aeDrnKEJ3d7zi6fx1r0dZ1oDgj7TEfWbwfB6MOinvHrC1y"
+  },
+  "resources/ts/assets/images/icons/manage_petty_cash.png": {
+    "file": "assets/manage_petty_cash-749a722b.png",
+    "src": "resources/ts/assets/images/icons/manage_petty_cash.png",
+    "integrity": "sha384-swL4ARZvsNWaGc9JmUmUvPne+c3DrywNTWcacl8JP7/PcrhcX1YFJ0kABL/Gtfcj"
+  },
+  "resources/ts/assets/images/icons/manage_users.png": {
+    "file": "assets/manage_users-c1d40c1b.png",
+    "src": "resources/ts/assets/images/icons/manage_users.png",
+    "integrity": "sha384-tAGUz8UeZYxxQjHDpGV63jPukKPBkPp6Ne2P1XpHncU4cPeyd8bSUk1FAnju9C6Y"
+  },
+  "resources/ts/assets/images/icons/reports.png": {
+    "file": "assets/reports-259428ef.png",
+    "src": "resources/ts/assets/images/icons/reports.png",
+    "integrity": "sha384-IN4biPF2VQ+Sh+pGDZmMFJ8TYbGglEUxhqYdkyIkn8iGN0+PaqhpkSFNqXS8C1bP"
+  },
+  "resources/ts/assets/images/icons/search_client.png": {
+    "file": "assets/search_client-707eaeb2.png",
+    "src": "resources/ts/assets/images/icons/search_client.png",
+    "integrity": "sha384-+CQBdtPu0jDO4b6sUbQ4KW8Pm9dqKVh7mKYKvAD+Yr7DeP+j3YLDNURU7T+fKk/D"
+  },
+  "resources/ts/assets/images/kmcapp.png": {
+    "file": "assets/kmcapp-671f6e61.png",
+    "src": "resources/ts/assets/images/kmcapp.png",
+    "integrity": "sha384-w7jGMlSWojWKwvzDdPEK57pMwmX2qu/h+lIic1y4ldl2CMnHaUmABR07xsS/fhrw"
+  },
+  "resources/ts/assets/images/logo.png": {
+    "file": "assets/logo-484788cf.png",
+    "src": "resources/ts/assets/images/logo.png",
+    "integrity": "sha384-0WEeij9/8LD/IgSOEWGak9LHd87Ur0zVI1R17KFhvnrp+znuYJLQm633lBDjSGH4"
+  },
+  "resources/ts/index.css": {
+    "file": "assets/index-74f189ff.css",
+    "src": "resources/ts/index.css",
+    "integrity": "sha384-Zbcfxj7iXMzHodPU6trApy2T+l7pRBVkkFbIIgzZ9NQpzYPdstQvc6limzdW3n7t"
+  },
+  "resources/ts/index.tsx": {
+    "assets": [
+      "assets/logo-484788cf.png",
+      "assets/kmcapp-671f6e61.png",
+      "assets/credit-2a0ef114.png",
+      "assets/reports-259428ef.png",
+      "assets/add_payment-a812b187.png",
+      "assets/add_client-acb963cf.png",
+      "assets/manage_invoice-23b36015.png",
+      "assets/edit_product-8511c046.png",
+      "assets/manage_users-c1d40c1b.png",
+      "assets/add_reminder-18458598.png",
+      "assets/search_client-707eaeb2.png",
+      "assets/manage_petty_cash-749a722b.png",
+      "assets/create_product-5dca9460.png",
+      "assets/add_products-b21fadcf.png"
+    ],
+    "css": [
+      "assets/index-74f189ff.css"
+    ],
+    "file": "assets/index-97231c41.js",
+    "imports": [
+      "_reactbootstrap-d01ac090.js",
+      "_styledcomponents-fca193cb.js",
+      "_lodash-725317a4.js",
+      "_dayjs-d2420a3b.js",
+      "_gridjsReact-3186b375.js",
+      "_gridjs-a5d504de.js"
+    ],
+    "isEntry": true,
+    "src": "resources/ts/index.tsx",
+    "integrity": "sha384-JEAE07HZcrtMWHEFU3zz7SJUAdQyuBgGW8BmL3MJlYwmqpJL03AiPoW8oZ5ZDUNF"
+  }
+}
