@@ -3,8 +3,8 @@ import get from 'lodash/fp/get'
 import { Country, UserState, Warehouse } from '../types'
 
 export const getServerUrl = () => {
-  if (process.env.NODE_ENV === 'production') return 'https://kmcafilms.com/api'
-  return 'http://54.172.217.150/api'
+  if (process.env.NODE_ENV === 'production') return 'http://54.172.217.150/api'
+  return 'http://localhost:8000/api'
 }
 
 export const setUserStorage = (userState: UserState) => {
