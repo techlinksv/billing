@@ -1,10 +1,10 @@
 <table>
     <thead>
         <tr>
-            <th>ID Usuario</th>
-            <th>Usuario</th>
-            <th>Fecha Inicial</th>
-            <th>Fecha Final</th>
+            <th scope="col">ID Usuario</th>
+            <th scope="col">Usuario</th>
+            <th scope="col">Fecha Inicial</th>
+            <th scope="col">Fecha Final</th>
         </tr>
         </thead>
         <tbody>
@@ -19,15 +19,15 @@
 <table>
     <thead>
     <tr>
-        <th colspan="5" style="text-align: center"><h3>Pagos</h3></th>
+        <th scope="col" colspan="5" style="text-align: center"><h3>Pagos</h3></th>
     </tr>
     <tr>
-        <th>Id</th>
-        <th># Comprobante</th>
-        <th>Fecha de abono</th>
-        <th>Cliente</th>
-        <th>Monto</th>
-        <th>Comentario</th>
+        <th scope="col">Id</th>
+        <th scope="col"># Comprobante</th>
+        <th scope="col">Fecha de abono</th>
+        <th scope="col">Cliente</th>
+        <th scope="col">Monto</th>
+        <th scope="col">Comentario</th>
     </tr>
     </thead>
     <tbody>
@@ -56,14 +56,14 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5" style="text-align: center"><h3>Facturas</h3></th>
+            <th scope="col" colspan="5" style="text-align: center"><h3>Facturas</h3></th>
         </tr>
     <tr>
-        <th># Factura</th>
-        <th>Fecha de compra</th>
-        <th>Local</th>
-        <th>Tipo de pago</th>
-        <th>Total</th>
+        <th scope="col"># Factura</th>
+        <th scope="col">Fecha de compra</th>
+        <th scope="col">Local</th>
+        <th scope="col">Tipo de pago</th>
+        <th scope="col">Total</th>
     </tr>
     </thead>
     <tbody>

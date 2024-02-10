@@ -77,10 +77,6 @@ class TransactionController extends Controller
         $transaction->user_id = auth()?->id();
         $transaction->save();
         return new TransactionResource($transaction);
-
-
-        $table->double('amount')->default(0.00);
-        $table->enum('type', ['entrada', 'salida']);
     }
 
     /**

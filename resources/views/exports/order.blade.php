@@ -1,13 +1,13 @@
 <table>
     <thead>
     <tr>
-        <th># Factura</th>
-        <th>Fecha</th>
-        <th>Cliente</th>
-        <th>Forma de pago</th>
-        <th>IVA	</th>
-        <th>Tax	</th>
-        <th>Total</th>
+        <th scope="col"># Factura</th>
+        <th scope="col">Fecha</th>
+        <th scope="col">Cliente</th>
+        <th scope="col">Forma de pago</th>
+        <th scope="col">IVA	</th>
+        <th scope="col">Tax	</th>
+        <th scope="col">Total</th>
     </tr>
     </thead>
     <tbody>
@@ -25,12 +25,12 @@
 <table>
     <thead>
     <tr>
-        <th>Código</th>
-        <th>Nombre</th>
-        <th>Cantidad</th>
-        <th>Costo</th>
-        <th>Precio</th>
-        <th>Sub Total</th>
+        <th scope="col">Código</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Cantidad</th>
+        <th scope="col">Costo</th>
+        <th scope="col">Precio</th>
+        <th scope="col">Sub Total</th>
     </tr>
     </thead>
     <tbody>
